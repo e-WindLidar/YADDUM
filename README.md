@@ -168,7 +168,7 @@ Beware that *YADDUM* conforms to [cf convention](http://cfconventions.org/Data/c
 - [numpy](https://numpy.org/) - Package
 
 ## Authors <a name = "authors"></a>
-- [@niva83](https://github.com/niva83/) - idea and work
+- [@nikokaoja](https://github.com/nikokaoja) - idea and work
 
 ## How to cite <a name = "cite"></a>
 This package is persisted using [Zenodo](https://zenodo.org/) making it citable and preserved. Simply click on the banner bellow to find your preferred citation options (e.g., [BibTex](https://zenodo.org/record/3551572/export/hx)): 
