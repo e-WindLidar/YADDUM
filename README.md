@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  ![GitHub release (latest by date)](https://img.shields.io/github/release-date/e-WindLidar/YADDUM)
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/niva83/YADDUM)
   [![DOI](https://zenodo.org/badge/221973907.svg)](https://zenodo.org/badge/latestdoi/221973907) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niva83/YADDUM/master?filepath=examples%2Fexample_1.ipynb) [![License](https://img.shields.io/badge/license-BSD-green)](/LICENSE) <a href="https://www.buymeacoffee.com/z57lyJbHo" rel="nofollow"><img alt="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg" src="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg"></a>
 </div>
 
@@ -168,7 +168,7 @@ Beware that *YADDUM* conforms to [cf convention](http://cfconventions.org/Data/c
 - [numpy](https://numpy.org/) - Package
 
 ## Authors <a name = "authors"></a>
-- [@nikokaoja](https://github.com/nikokaoja) - idea and work
+- [@niva83](https://github.com/niva83/) - idea and work
 
 ## How to cite <a name = "cite"></a>
 This package is persisted using [Zenodo](https://zenodo.org/) making it citable and preserved. Simply click on the banner bellow to find your preferred citation options (e.g., [BibTex](https://zenodo.org/record/3551572/export/hx)): 
