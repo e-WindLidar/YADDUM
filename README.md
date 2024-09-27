@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/niva83/YADDUM)
+  ![GitHub release (latest by date)](https://img.shields.io/github/release-date/e-WindLidar/YADDUM)
   [![DOI](https://zenodo.org/badge/221973907.svg)](https://zenodo.org/badge/latestdoi/221973907) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niva83/YADDUM/master?filepath=examples%2Fexample_1.ipynb) [![License](https://img.shields.io/badge/license-BSD-green)](/LICENSE) <a href="https://www.buymeacoffee.com/z57lyJbHo" rel="nofollow"><img alt="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg" src="https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg"></a>
 </div>
 
